@@ -1,0 +1,4 @@
+<excludes>
+    <exclude>pl/mjedynak/excluded/*.class</exclude>
+    <exclude>pl/mjedynak/alsoExcluded/*.class</exclude>
+</excludes>
